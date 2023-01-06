@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyAudio Player</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="file_name">File Name</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="this_is_song_name">This is song Name</string>
+    <string name="this_is_song_artist">this is song Artist</string>
+    <string name="todo">TODO</string>
+    <string name="_1_28">1:28</string>
+    <string name="_5_28" />
+    <string name="_4_28" />
+    <string name="_4_9">4:9</string>
+    <string name="delete">Delete</string>
+    <string name="album">Album</string>
+    <string name="search">search</string>
+    <string name="song_name_is_here">Song Name Is Here</string>
+    <string name="artist_name">Artist Name</string>
+</resources>
